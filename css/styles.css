@@ -1,0 +1,12 @@
+body {
+  background-image: url(../img/Beach2.jpg);
+  background-size: cover;
+}
+
+img {
+  width: 95%;
+}
+
+jumbotron {
+  color: blue;
+}
